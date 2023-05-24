@@ -29,5 +29,5 @@ O Scritp irar exibir Informações capturadas do User e informa-las na Tela, nes
 
 # Coding Time
 <div style="display: inline-block;">
-    <img src="img/time_code.png" alt="" height="300" width="1000">
+    <img src="img/time_code.png" alt="" height="270" width="1000">
 </div>
